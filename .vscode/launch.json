@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Canetas",
             "request": "launch",
+            "mainClass": "aula04.Canetas",
+            "projectName": "Java-poo_6c0d9351"
+        },
+        {
+            "type": "java",
+            "name": "Canetas",
+            "request": "launch",
+            "mainClass": "aula03.Canetas",
+            "projectName": "Java-poo_6c0d9351"
+        },
+        {
+            "type": "java",
+            "name": "Canetas",
+            "request": "launch",
             "mainClass": "aula02.Canetas",
             "projectName": "Java-poo_6c0d9351"
         },
