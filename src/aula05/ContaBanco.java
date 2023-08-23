@@ -28,7 +28,7 @@ public class ContaBanco {
         } else if(tipo == "CP") {
             this.setSaldo(150);
         }
-        System.out.println("Conta aberta com sucesso!");
+        System.out.println("Conta aberta com sucesso!"); 
     }
 
     public void fecharConta(){ 
