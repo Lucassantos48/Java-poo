@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Combate",
+            "request": "launch",
+            "mainClass": "aula07.Combate",
+            "projectName": "Java-poo_6c0d9351"
+        },
+        {
+            "type": "java",
             "name": "TesteControle",
             "request": "launch",
             "mainClass": "aula06.TesteControle",
