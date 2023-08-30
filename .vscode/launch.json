@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProjetoLivro",
+            "request": "launch",
+            "mainClass": "aula08.ProjetoLivro",
+            "projectName": "Java-poo_6c0d9351"
+        },
+        {
+            "type": "java",
+            "name": "Lutadores",
+            "request": "launch",
+            "mainClass": "aula07.Lutadores",
+            "projectName": "Java-poo_6c0d9351"
+        },
+        {
+            "type": "java",
             "name": "Combate",
             "request": "launch",
             "mainClass": "aula07.Combate",

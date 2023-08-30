@@ -1,6 +1,6 @@
 package aula07;
 
-public class Combate {
+public class Lutadores {
     public static void main(String[] args) {
 
         Lutador l[] = new Lutador[6];
@@ -13,9 +13,9 @@ public class Combate {
         l[4] = new Lutador("Anderson Silva", "Brail", 36, 1.95f, 106.9f, 12, 0, 0);
         l[5] = new Lutador("Gervonta Davis", "EUA", 27, 1.89f, 109.9f, 13, 0, 0);
 
-        l[0].status();
-        
-        l[1].status();
+        Combates UFC = new Combates();
+        UFC.marcarLuta(l[2], l[3]);
+        UFC.lutar();
     }
     
 }
